@@ -1,3 +1,39 @@
 h1 {
   background: chartreuse;
+  text-align: center;
+  font-size: 48;
+}
+
+body {
+  background-color: purple;
+  text-align: center;
+}
+
+button {
+  margin-top: 32px;
+  margin: 0 auto;
+  display: block;
+}
+
+#display-quote {
+  display: inline-block;
+  height: 200px;
+  width: 800px;
+  background-color: white;
+  color: purple;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}
+
+#button-wrapper {
+  margin: 32px;
 }
